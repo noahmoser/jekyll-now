@@ -1,8 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
+
+## Relative link back to README
+[README](README.md)
 
 Some information about you!
 
