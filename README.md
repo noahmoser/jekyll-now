@@ -1,4 +1,10 @@
-# Jekyll Now
+---
+# This front-matter makes jekyll render this README
+layout: page
+
+---
+
+# Jekyll Wiki Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
@@ -13,6 +19,9 @@
 In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
 
 ![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+
+**Jekyll Wiki Now** makes it easier to create your Jekyll wiki by adding support for relative links.
+By typing `[About](about.md)` you can link like so to the [About](about.md) page.
 
 ## Quick Start
 
