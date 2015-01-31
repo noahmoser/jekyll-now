@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 ## This page shows an example of embedding a map
 
