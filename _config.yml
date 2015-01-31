@@ -18,7 +18,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Prose
 prose:
   rooturl: ''
-  media: 'media'
+  media: 'images'
+  metadata:
 
 # Includes an icon in the footer for each username you enter
 footer-links:
