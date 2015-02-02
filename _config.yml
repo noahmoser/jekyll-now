@@ -11,6 +11,10 @@ description: Web Developer from Somewhere
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+# Github info (used for the embedded maps and fork ribbon)
+github_user: WikiHydra
+github_repo: jekyll-wiki-name
+
 #
 # Flags below are optional
 #
