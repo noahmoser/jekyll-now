@@ -6,6 +6,6 @@
   },
   "properties": {
     "name": "Half Dome"
-    url: 'http://maps.apple.com/?q=Half%20Dome'
+    "url": "http://maps.apple.com/?q=Half%20Dome"
   }
 }
