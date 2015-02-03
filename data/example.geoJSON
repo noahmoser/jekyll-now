@@ -2,9 +2,10 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [37.74, -119.53]
   },
   "properties": {
-    "name": "Dinagat Islands"
+    "name": "Half Dome"
+    url: 'http://maps.apple.com/?q=Half%20Dome'
   }
 }
